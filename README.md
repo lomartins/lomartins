@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/lomartins/lomartins/refs/heads/main/download20250500174423.png"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/lomartins/lomartins/refs/heads/main/profile.gif"  />
 
 ###
 
